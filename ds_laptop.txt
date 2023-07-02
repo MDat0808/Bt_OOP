@@ -1,0 +1,7 @@
+Hóa ??n:
+Laptop: <Ma laptop>:lap1 <Dong laptop>:Bee <Gia ban>1900.0
+CPU :<Ma CPU>:cpu1 <Loai CPU>:core i3 <Don gia>:100.0
+RAM :<Ma RAM>:[ram1] <Loai ram>:DDR3 <Dung luong>:4G <So thanh ram>:1 <Don gia>: 400.0
+O Cung:<Ma o cung>:o1 <Loai o cung>:HDD <Dung luong>:4GB <Toc do doc>:300rpm - vong <Don gia>:400.0
+Man hinh: <Ma man hinh>:man1 <Hang san xuat>:ASUS <do phan giai>:fulhd <Don gia>:1000.0
+
